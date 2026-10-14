@@ -10,7 +10,7 @@
 ### 🎯 About Me
 
 - 🎓 MSc Cybersecurity (Ethical Hacking & Penetration Testing) — Coventry University
-- 🤖 BSc AI & Data Science — KLH University
+- 🤖 BTech Artificial Intelligence & Data Science — KLH University
 - 🔐 Completed an automated vulnerability assessment pipeline (VASTA) as my dissertation project
 - 📚 Currently studying for **CompTIA Security+** and working through **CISSP Domain 1**
 - ✅ Completed the **Google Cybersecurity Professional Certificate**
